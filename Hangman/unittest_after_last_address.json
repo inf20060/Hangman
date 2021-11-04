@@ -1,0 +1,14 @@
+{
+  "cesp_version": 1,
+  "executable": [
+    "/usr/bin/java",
+    "-jar",
+    "/home/cesp/cesp_course/tools/rars/rars.jar"
+  ],
+  "arguments": [
+    "a0",
+    "unittest_after_last_address.asm"
+  ],
+  "description": "Words.ASM Unit Test",
+  "expected_result": "\n\n\nProgram terminated by calling exit\nMEM[a0]\t0x100100d0\n"
+}

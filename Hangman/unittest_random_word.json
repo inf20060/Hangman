@@ -1,0 +1,14 @@
+{
+  "cesp_version": 1,
+  "executable": [
+    "/usr/bin/java",
+    "-jar",
+    "/home/cesp/cesp_course/tools/rars/rars.jar"
+  ],
+  "arguments": [
+    "a0",
+    "unittest_random_word.asm"
+  ],
+  "description": "Words.ASM Unit Test",
+  "expected_result": "One of these value should match with the contents of a0\n\n\nProgram terminated by calling exit\nMem[wordlist[0]]\t0x10010046\nMem[wordlist[1]]\t0x10010052\nMem[wordlist[2]]\t0x10010058\nMem[wordlist[3]]\t0x1001005e\nMem[wordlist[4]]\t0x10010067\nMem[wordlist[5]]\t0x1001006f\nMem[wordlist[6]]\t0x1001007a\nMem[wordlist[7]]\t0x10010085\nMem[wordlist[8]]\t0x1001008e\nMem[wordlist[9]]\t0x1001009c\n"
+}

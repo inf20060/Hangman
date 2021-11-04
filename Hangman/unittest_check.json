@@ -1,0 +1,15 @@
+{
+  "cesp_version": 1,
+  "executable": [
+    "/usr/bin/java",
+    "-jar",
+    "/home/cesp/cesp_course/tools/rars/rars.jar"
+  ],
+  "arguments": [
+    "a3",
+    "a4",
+    "unittest_check.asm"
+  ],
+  "description": "Game.ASM Unit Test",
+  "expected_result": "Unittest of check function\n\n\nProgram terminated by calling exit\nMem[a3]\t0x00000000\nMem[a4]\t0x00000001\n"
+}
