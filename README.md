@@ -7,8 +7,8 @@ Mail: inf20060@lehre.dhbw-stuttgart.de
 
 # IMPORTANT REGARDING VIDEO AND CODE!!!
 * The embedded video is a compressed version which seems to a lower the sound quality a bit. For the uncompressed version use the video in the file explorer
-* The comments appear to be formated differently than in RARS. In RARS the comments are fine. In other editors and github the comments appear to lack the right
-  formatting because another Tab-Space ratio is used !!!
+* The comments appear to be formated differently than in RARS. In RARS a setting of 3 spaces per tab is used. This may affect the appearence of comments in
+  other text editors or github. Like in the images in the documentation the comments are fine for me in RARS.
 # Presentation Video
 [![presentation video](https://user-images.githubusercontent.com/83594477/140370170-f9075ea2-5073-4a61-ad95-1336af9177b1.PNG)](https://user-images.githubusercontent.com/83594477/140371247-c6562024-aa4f-46e8-92af-856268339f6a.mp4)
 
