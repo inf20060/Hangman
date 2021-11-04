@@ -1,8 +1,10 @@
 # Hangman
 
-# Presentations Video
 
-![präsentation video](https://github.com/inf20060/Hangman/blob/main/Hangman%20Pr%C3%A4setationsvideo.mp4)
+# IMPORTANT REGARDING THE VIDEO!!!
+* The embedded video is a compressed version which appears to a lower sound quality. For the uncompressed version use the video in the file explorer
+# Presentation Video
+[![presentation video](https://user-images.githubusercontent.com/83594477/140370170-f9075ea2-5073-4a61-ad95-1336af9177b1.PNG)](https://user-images.githubusercontent.com/83594477/140371247-c6562024-aa4f-46e8-92af-856268339f6a.mp4)
 
 # Unittest
 replace function
